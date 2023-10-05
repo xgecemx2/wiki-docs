@@ -1,6 +1,6 @@
 ---
 title: Commento
-description: Comments Module
+description: Comments Modulege
 published: true
 date: 2020-05-23T05:22:48.129Z
 tags: module, comments
